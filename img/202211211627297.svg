@@ -1,0 +1,261 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="79.367ex" height="3.343ex" style="vertical-align: -1.171ex;" viewBox="0 -934.9 34172 1439.2" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">\color{red}{限定在虚拟机（JVM）特定的运行范围中，并且严格限制代码对本地系统资源访问}</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMATHI-4A" d="M447 625Q447 637 354 637H329Q323 642 323 645T325 664Q329 677 335 683H352Q393 681 498 681Q541 681 568 681T605 682T619 682Q633 682 633 672Q633 670 630 658Q626 642 623 640T604 637Q552 637 545 623Q541 610 483 376Q420 128 419 127Q397 64 333 21T195 -22Q137 -22 97 8T57 88Q57 130 80 152T132 174Q177 174 182 130Q182 98 164 80T123 56Q115 54 115 53T122 44Q148 15 197 15Q235 15 271 47T324 130Q328 142 387 380T447 625Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-56" d="M52 648Q52 670 65 683H76Q118 680 181 680Q299 680 320 683H330Q336 677 336 674T334 656Q329 641 325 637H304Q282 635 274 635Q245 630 242 620Q242 618 271 369T301 118L374 235Q447 352 520 471T595 594Q599 601 599 609Q599 633 555 637Q537 637 537 648Q537 649 539 661Q542 675 545 679T558 683Q560 683 570 683T604 682T668 681Q737 681 755 683H762Q769 676 769 672Q769 655 760 640Q757 637 743 637Q730 636 719 635T698 630T682 623T670 615T660 608T652 599T645 592L452 282Q272 -9 266 -16Q263 -18 259 -21L241 -22H234Q216 -22 216 -15Q213 -9 177 305Q139 623 138 626Q133 637 76 637H59Q52 642 52 648Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-4D" d="M289 629Q289 635 232 637Q208 637 201 638T194 648Q194 649 196 659Q197 662 198 666T199 671T201 676T203 679T207 681T212 683T220 683T232 684Q238 684 262 684T307 683Q386 683 398 683T414 678Q415 674 451 396L487 117L510 154Q534 190 574 254T662 394Q837 673 839 675Q840 676 842 678T846 681L852 683H948Q965 683 988 683T1017 684Q1051 684 1051 673Q1051 668 1048 656T1045 643Q1041 637 1008 637Q968 636 957 634T939 623Q936 618 867 340T797 59Q797 55 798 54T805 50T822 48T855 46H886Q892 37 892 35Q892 19 885 5Q880 0 869 0Q864 0 828 1T736 2Q675 2 644 2T609 1Q592 1 592 11Q592 13 594 25Q598 41 602 43T625 46Q652 46 685 49Q699 52 704 61Q706 65 742 207T813 490T848 631L654 322Q458 10 453 5Q451 4 449 3Q444 0 433 0Q418 0 415 7Q413 11 374 317L335 624L267 354Q200 88 200 79Q206 46 272 46H282Q288 41 289 37T286 19Q282 3 278 1Q274 0 267 0Q265 0 255 0T221 1T157 2Q127 2 95 1T58 0Q43 0 39 2T35 11Q35 13 38 25T43 40Q45 46 65 46Q135 46 154 86Q158 92 223 354T289 629Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">限</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(932,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">定</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(1865,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">在</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(2798,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">虚</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(3731,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">拟</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(4664,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">机</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(5597,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">（</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(6530,0)">
+ <use xlink:href="#E1-MJMATHI-4A"></use>
+</g>
+<g fill="red" stroke="red" transform="translate(7163,0)">
+ <use xlink:href="#E1-MJMATHI-56"></use>
+</g>
+<g fill="red" stroke="red" transform="translate(7933,0)">
+ <use xlink:href="#E1-MJMATHI-4D"></use>
+</g>
+<g fill="red" stroke="red" transform="translate(8984,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">）</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(9917,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">特</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(10850,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">定</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(11783,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">的</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(12716,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">运</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(13648,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">行</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(14581,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">范</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(15514,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">围</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(16447,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">中</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(17380,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">，</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(18313,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">并</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(19246,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">且</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(20178,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">严</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(21111,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">格</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(22044,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">限</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(22977,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">制</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(23910,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">代</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(24843,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">码</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(25776,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">对</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(26709,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">本</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(27641,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">地</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(28574,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">系</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(29507,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">统</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(30440,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">资</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(31373,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">源</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(32306,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">访</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(33239,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">问</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
