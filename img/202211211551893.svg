@@ -1,0 +1,143 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="41.167ex" height="3.343ex" style="vertical-align: -1.171ex;" viewBox="0 -934.9 17724.5 1439.2" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">\color{red}{通过类加载器可以实现非常绝妙的插件机制}</title>
+<defs aria-hidden="true"></defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">通</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(932,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">过</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(1865,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">类</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(2798,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">加</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(3731,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">载</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(4664,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">器</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(5597,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">可</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(6530,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">以</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(7462,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">实</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(8395,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">现</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(9328,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">非</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(10261,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">常</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(11194,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">绝</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(12127,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">妙</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(13060,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">的</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(13993,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">插</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(14925,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">件</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(15858,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">机</text>
+</g>
+</g>
+</g>
+<g fill="red" stroke="red" transform="translate(16791,0)">
+<g fill="red" stroke="red">
+<g fill="red" stroke="red">
+<text font-family="monospace" stroke="none" transform="scale(71.759) matrix(1 0 0 -1 0 0)">制</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
